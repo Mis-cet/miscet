@@ -1,0 +1,4 @@
+Evalúa el siguiente resumen sobre {{TOPIC}}. Asigna una calificación del 0 al 100 y explica brevemente tu opinión.
+
+Trabajo:
+{{STUDENT_TEXT}}

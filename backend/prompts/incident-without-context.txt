@@ -1,0 +1,4 @@
+Clasifica este incidente de soporte técnico. Da una categoría breve y una prioridad sugerida.
+
+Incidente:
+{{DESCRIPTION}}
